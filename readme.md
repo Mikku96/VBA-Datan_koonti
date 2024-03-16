@@ -1,5 +1,5 @@
 Käytetyn datan ollessa tutkimuksen alaista, en voi jakaa tässä testaamista varten Excel tiedostoa.
-Tehtävänäni oli mitata kaksoistähtien (kataklymisten muuttujien --> kääpiönovien --> SU UMa-kohteiden --> WZ Sge alaluokituksen kohteiden) kirkkauksia prosessoiduista kuvista.
+Tehtävänäni oli mitata kaksoistähtien (kataklysmisten muuttujien --> kääpiönovien --> SU UMa-kohteiden --> WZ Sge alaluokituksen kohteiden) kirkkauksia prosessoiduista kuvista.
 Kasasin mitatut kirkkaudet Excel-taulukoihin, suoritin tarpeelliset laskut ja kasasin lopputulokset alla olevilla scripteillä.
 
 ---
